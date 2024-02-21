@@ -7,7 +7,7 @@ module.exports = {
         Karla: ["Karla", "sans-serif"],
       },
       colors: {
-        "light-coffe": "",
+        "light-coffee": "#C89F94",
       },
     },
   },
