@@ -23,3 +23,15 @@
 .hnd-badge-circle {
   @apply text-xs text-center rounded-full px-1.5;
 }
+
+.hnd-sub-headline {
+  @apply flex justify-center items-center mb-24;
+}
+
+.hnd-sub-headline-deco-line {
+  @apply w-8 h-px bg-gray-200;
+}
+
+.hnd-sub-headline-label {
+  @apply uppercase mx-4 tracking-widest text-gray-500 font-medium text-xs text-center;
+}
